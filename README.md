@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Yun Chen :wave:
-    <br><br>
     I work as a software engineer 
     <br><br>
     I work on Serverless Applications and Micro Services
