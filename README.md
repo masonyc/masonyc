@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I work as a software engineer 
-    <br><br>
-    I work on Serverless Applications and Micro Services
+    I work as a software engineer focus on Cloud Solutions
     <br><br>
     I enjoy explore open source world and try new things.
     <br><br>
