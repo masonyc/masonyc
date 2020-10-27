@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-  <samp>
-    I work as a software engineer focus on Cloud Solutions
-    <br><br>
-    I enjoy explore open source world and try new things.
-    <br><br>
-  </samp>
-</p>
-
-<br>
-
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-  
-  [![Github Stats By Mason](https://github-readme-stats.vercel.app/api?username=masonyc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/masonyc/github-readme-stats)
+[![Github Stats By Mason](https://github-readme-stats.vercel.app/api?username=masonyc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/masonyc/github-readme-stats)
 
 ---
 
